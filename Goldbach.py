@@ -4,12 +4,6 @@
 
 #  Student Name: Christina Nerona
 
-#  Student UT EID: cmn845
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51630
-
 #  Date Created: 3/8/15
 
 #  Date Last Modified: 3/14/12
